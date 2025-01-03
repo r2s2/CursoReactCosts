@@ -1,23 +1,86 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 4,
-            "name": "Planejamento"
-        }
-        
-    
-    ]
+  "projects": [
+    {
+      "id": "c28c",
+      "name": "asdf",
+      "budget": "50",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "deea",
+      "name": "adf",
+      "budget": "50",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "360c",
+      "name": "adf",
+      "budget": "50",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a4d0",
+      "name": "adf",
+      "budget": "50",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "bf4b",
+      "name": "asdf",
+      "budget": "50",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "9f62",
+      "name": "sdfg",
+      "budget": "50",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "72ae",
+      "name": "gfds",
+      "budget": "50",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "74b3",
+      "name": "rter",
+      "budget": "15",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
