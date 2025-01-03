@@ -1,7 +1,7 @@
 import { useLocation } from 'react-router-dom'
 import Message from '../layout/Message'
 
-function Projects () {
+function Projects() {
     const location = useLocation()
     let message = ''
 
@@ -19,4 +19,4 @@ function Projects () {
     )
 }
 
-export default Projects;
+export default Projects
