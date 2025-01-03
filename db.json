@@ -63,6 +63,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "074a",
+      "name": "qtqrwe",
+      "budget": "45",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
