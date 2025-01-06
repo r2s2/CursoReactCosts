@@ -22,13 +22,6 @@
       "services": []
     },
     {
-      "id": "a4d0",
-      "name": "adf",
-      "budget": "50",
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "bf4b",
       "name": "asdf",
       "budget": "50",
@@ -98,31 +91,9 @@
       "services": []
     },
     {
-      "id": "d7f5",
-      "name": "fvb",
-      "budget": "84",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "21c4",
-      "name": "sadf",
-      "budget": "45",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "8438",
-      "name": "qwerqwer",
-      "budget": "50",
+      "id": "c429",
+      "name": "wertwertwert",
+      "budget": "81458484",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
