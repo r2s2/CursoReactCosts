@@ -2,10 +2,14 @@
   "projects": [
     {
       "id": "c28c",
-      "name": "asdf",
-      "budget": "50",
+      "name": "asdfsdfasfd",
+      "budget": "5000",
       "cost": 0,
-      "services": []
+      "services": [],
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      }
     },
     {
       "id": "deea",
