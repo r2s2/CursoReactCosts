@@ -1,103 +1,33 @@
 {
   "projects": [
     {
-      "id": "c28c",
-      "name": "asdfsdfasfd",
-      "budget": "5000",
-      "cost": 0,
-      "services": [],
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      }
-    },
-    {
-      "id": "deea",
-      "name": "adf",
-      "budget": "50",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "360c",
-      "name": "adf",
-      "budget": "50",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "bf4b",
-      "name": "asdf",
-      "budget": "50",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "9f62",
-      "name": "sdfg",
-      "budget": "50",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "72ae",
-      "name": "gfds",
-      "budget": "50",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "74b3",
-      "name": "rter",
-      "budget": "15",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "074a",
-      "name": "qtqrwe",
-      "budget": "45",
+      "id": "6576",
+      "name": "weqrqwe",
+      "budget": "5800000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": []
+      "cost": 178,
+      "services": [
+        {
+          "name": "sdafasdf",
+          "cost": "80",
+          "description": "wqtrqwe",
+          "id": "8673a1e3-dbc8-4611-8885-5fd55b7b9d9a"
+        },
+        {
+          "name": "fvdgshsfd",
+          "cost": "98",
+          "description": "vcbxb",
+          "id": "a151d385-3283-4433-9d53-d8d693f57067"
+        }
+      ]
     },
     {
-      "id": "5c63",
-      "name": "asdf",
-      "budget": "45",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "9653",
-      "name": "asdf",
-      "budget": "58",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "c429",
-      "name": "wertwertwert",
-      "budget": "81458484",
+      "id": "73d6",
+      "name": "fghdfgh",
+      "budget": "897987789",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
