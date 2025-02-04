@@ -24,11 +24,13 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/newproject" element={<NewProject />} />
         <Route path="/project/:id" element={<Project />} />
+ 
         
         
       </Routes>
       
       </Container>
+      <Footer />
       <Footer />
       
     </Router>
