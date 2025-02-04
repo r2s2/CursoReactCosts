@@ -34,6 +34,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "4f6f",
+      "name": "dasdf",
+      "budget": "341234123",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
